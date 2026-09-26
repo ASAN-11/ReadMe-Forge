@@ -34,6 +34,24 @@ Possible areas include:
 📜 License information  
 🔄 Recent updates  
 
+## Customization
+
+Different visual styles and layouts can be explored to make statistics fit different GitHub profiles.
+Possible customization options include:
+
+🎨 Themes  
+🖌️ Colors  
+🔤 Fonts  
+📐 Card layouts  
+📊 Chart styles  
+🖼️ Icons  
+✨ Animations  
+🌑 Dark themes  
+☀️ Light themes  
+🟡 Custom accent colors  
+📏 Card dimensions  
+🧩 Selectable statistics  
+
 ## Development
 
 `ReadMe Forge` is currently **under development**, with new README layouts, design experiments, components, and presentation ideas being created and refined as the project evolves.
