@@ -1,8 +1,8 @@
-# ReadMe Experience
+# ReadMe Forge
 
 🚧 **Status: Under Development**
 
-**ReadMe Experience** is a project focused on **enhancing and experimenting with GitHub README designs**, layouts, formatting, and presentation.
+**ReadMe Forge** is a project focused on **enhancing and experimenting with GitHub README designs**, layouts, formatting, and presentation.
 
 ## About
 
@@ -19,4 +19,4 @@ The idea behind readme-exp is to explore different ways of making GitHub README 
 
 ## Development
 
-`ReadMe Experience` is currently **under development**, with new README layouts, design experiments, components, and presentation ideas being created and refined as the project evolves.
+`ReadMe Forge` is currently **under development**, with new README layouts, design experiments, components, and presentation ideas being created and refined as the project evolves.
