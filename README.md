@@ -22,17 +22,17 @@ The idea behind readme-exp is to explore different ways of making GitHub README 
 GitHub repositories can be analyzed individually or collectively to experiment with different project-level metrics.
 Possible areas include:
 
-⭐ Stars
-🍴 Forks
-👁️ Watchers
-📝 Issues
-🔀 Pull requests
-💻 Languages
-📅 Repository age
-📈 Activity
-🏷️ Topics
-📜 License information
-🔄 Recent updates
+⭐ Stars  
+🍴 Forks  
+👁️ Watchers  
+📝 Issues  
+🔀 Pull requests  
+💻 Languages  
+📅 Repository age  
+📈 Activity  
+🏷️ Topics  
+📜 License information  
+🔄 Recent updates  
 
 ## Development
 
