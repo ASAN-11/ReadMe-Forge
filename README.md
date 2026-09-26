@@ -56,15 +56,15 @@ Possible customization options include:
 
 The repository can also serve as a space for experimenting with:
 
-📊 Data visualization
-🧩 README components
-🖼️ SVG generation
-🎨 UI design
-📈 GitHub analytics
-⚙️ API development
-🤖 Automated statistics
-🌐 Web integrations
-🧪 New GitHub profile ideas
+📊 Data visualization  
+🧩 README components  
+🖼️ SVG generation  
+🎨 UI design  
+📈 GitHub analytics  
+⚙️ API development  
+🤖 Automated statistics  
+🌐 Web integrations  
+🧪 New GitHub profile ideas  
 
 ## Development
 
