@@ -17,6 +17,23 @@ The idea behind readme-exp is to explore different ways of making GitHub README 
 * 📊 GitHub profile and project presentation
 * 💡 Creative README concepts and templates
 
+## Repository Analytics
+
+GitHub repositories can be analyzed individually or collectively to experiment with different project-level metrics.
+Possible areas include:
+
+⭐ Stars
+🍴 Forks
+👁️ Watchers
+📝 Issues
+🔀 Pull requests
+💻 Languages
+📅 Repository age
+📈 Activity
+🏷️ Topics
+📜 License information
+🔄 Recent updates
+
 ## Development
 
 `ReadMe Forge` is currently **under development**, with new README layouts, design experiments, components, and presentation ideas being created and refined as the project evolves.
